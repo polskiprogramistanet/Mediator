@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator_with_events", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator_Structural", "..\Mediator_Structural\Mediator_Structural.csproj", "{5A6E8E1B-375F-4CF8-83E3-BABADE59CF20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringGuruMediator", "..\RefactoringGuruMediator\RefactoringGuruMediator.csproj", "{B1E8B1CC-C4A9-45D9-B643-40D45DB43B49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5A6E8E1B-375F-4CF8-83E3-BABADE59CF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A6E8E1B-375F-4CF8-83E3-BABADE59CF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A6E8E1B-375F-4CF8-83E3-BABADE59CF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E8B1CC-C4A9-45D9-B643-40D45DB43B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E8B1CC-C4A9-45D9-B643-40D45DB43B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E8B1CC-C4A9-45D9-B643-40D45DB43B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E8B1CC-C4A9-45D9-B643-40D45DB43B49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
